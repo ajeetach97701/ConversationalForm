@@ -1,0 +1,10 @@
+SQLAlchemy
+python-jose
+passlib
+python-multipart
+langchain
+fastapi
+uvicorn
+python-dotenv
+langchain-community
+openai
